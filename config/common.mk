@@ -78,6 +78,11 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/crdroid/config/permissions/com.cyanogenmod.android.xml:system/etc/permissions/com.cyanogenmod.android.xml
 
+# AdBlocker Files
+PRODUCT_COPY_FILES += \
+    vendor/crdroid/prebuilt/common/etc/hosts.alt:system/etc/hosts.alt \
+    vendor/crdroid/prebuilt/common/etc/hosts.og:system/etc/hosts.og
+
 # T-Mobile theme engine
 include vendor/crdroid/config/themes_common.mk
 
