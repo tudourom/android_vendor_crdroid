@@ -245,6 +245,10 @@ EXCLUDE_SYSTEMUI_TESTS := true
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/Adaway/Adaway.apk:system/app/Adaway/Adaway.apk
 
+# crDroid Maintainers list
+PRODUCT_COPY_FILES += \
+    vendor/cm/Maintainers.txt:system/etc/Maintainers.txt
+
 # Product version should match Android version
 PRODUCT_VERSION_MAJOR = 7
 PRODUCT_VERSION_MINOR = 1
