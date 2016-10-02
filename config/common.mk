@@ -249,6 +249,13 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     OmniSwitch
 
+#DU Utils Library
+PRODUCT_PACKAGES += \
+    org.dirtyunicorns.utils
+ 
+PRODUCT_BOOT_JARS += \
+    org.dirtyunicorns.utils
+
 # crDroid Maintainers list
 PRODUCT_COPY_FILES += \
     vendor/cm/Maintainers.txt:system/etc/Maintainers.txt
