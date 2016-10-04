@@ -245,6 +245,10 @@ EXCLUDE_SYSTEMUI_TESTS := true
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/Adaway/Adaway.apk:system/app/Adaway/Adaway.apk
 
+# Custom crDroid packages
+PRODUCT_PACKAGES += \
+    OmniSwitch
+
 # crDroid Maintainers list
 PRODUCT_COPY_FILES += \
     vendor/cm/Maintainers.txt:system/etc/Maintainers.txt
