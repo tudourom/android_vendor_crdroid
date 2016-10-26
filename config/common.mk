@@ -241,6 +241,10 @@ DEVICE_PACKAGE_OVERLAYS += vendor/cm/overlay/common
 # Don't compile SystemUITests
 EXCLUDE_SYSTEMUI_TESTS := true
 
+# Adaway
+PRODUCT_COPY_FILES += \
+    vendor/cm/prebuilt/Adaway/Adaway.apk:system/app/Adaway/Adaway.apk
+
 # Product version should match Android version
 PRODUCT_VERSION_MAJOR = 7
 PRODUCT_VERSION_MINOR = 1
