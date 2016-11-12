@@ -261,6 +261,10 @@ PRODUCT_BOOT_JARS += \
 PRODUCT_COPY_FILES += \
     vendor/cm/Maintainers.txt:system/etc/Maintainers.txt
 
+# Bring in google assistant
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.opa.eligible_device=true
+
 # Product version should match Android version
 PRODUCT_VERSION_MAJOR = 7
 PRODUCT_VERSION_MINOR = 1
