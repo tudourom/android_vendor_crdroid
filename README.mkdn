@@ -10,8 +10,8 @@ Below devices are officially supported.
 
 LG
 --
-* __[LG G2 (d800-d801-d802-d803-ls980-vs980)](http://forum.xda-developers.com/lg-g3/development/rom-crdroid-t2955012):__ Hildo Boerboom (@firebird11)
-* __[LG G3 (d850-d851-d852-d855-ls990-vs985-f400)](http://forum.xda-developers.com/lg-g2/development/rom-crdroid-t3120790):__ Hildo Boerboom (@firebird11)
+* __[LG G2 (d800-d801-d802-d803-ls980-vs980)](http://forum.xda-developers.com/lg-g2/development/rom-crdroid-t3120790):__ Hildo Boerboom (@firebird11)
+* __[LG G3 (d850-d851-d852-d855-ls990-vs985-f400)](http://forum.xda-developers.com/lg-g3/development/rom-crdroid-t2955012):__ Hildo Boerboom (@firebird11)
 
 NEXUS
 -----
