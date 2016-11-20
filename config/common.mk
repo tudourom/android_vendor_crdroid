@@ -265,6 +265,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.opa.eligible_device=true
 
+# Enable storage manager
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.storage_manager.enabled=1
+
 # Product version should match Android version
 PRODUCT_VERSION_MAJOR = 7
 PRODUCT_VERSION_MINOR = 1
