@@ -261,10 +261,6 @@ PRODUCT_BOOT_JARS += \
 PRODUCT_COPY_FILES += \
     vendor/cm/Maintainers.txt:system/etc/Maintainers.txt
 
-# Bring in google assistant
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.opa.eligible_device=true
-
 # Enable storage manager
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.storage_manager.enabled=1
