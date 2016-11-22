@@ -261,6 +261,10 @@ PRODUCT_BOOT_JARS += \
 PRODUCT_COPY_FILES += \
     vendor/cm/Maintainers.txt:system/etc/Maintainers.txt
 
+# Proprietary latinime lib needed for swyping
+PRODUCT_COPY_FILES += \
+    vendor/cm/prebuilt/common/lib/libjni_latinimegoogle.so:system/lib/libjni_latinimegoogle.so
+
 # Enable storage manager
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.storage_manager.enabled=1
