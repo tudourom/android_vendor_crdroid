@@ -93,4 +93,8 @@
          policy/src/com/android/internal/policy/impl/PhoneWindowManager.java
     -->
     <integer name="config_longPressOnHomeBehavior">3</integer>
+
+    <!-- If this is true, long press on power button will be available from a
+         non-interactive state. -->
+    <bool name="config_supportLongPressPowerWhenNonInteractive">true</bool>
 </resources>
