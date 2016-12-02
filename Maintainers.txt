@@ -7,12 +7,20 @@ ROMs released by below maintainers are officially supported by crDroid Team.
 Official Maintainers
 ====================
 
-==
+=====
 LG
-==
+=====
 
 * LG G2 (d800-d801-d802-d803-ls980-vs980) : Hildo Boerboom (firebird11)
 * LG G3 (d850-d851-d852-d855-ls990-vs985-f400) : Hildo Boerboom (firebird11)
+
+=====
+Motorola
+=====
+
+* Moto G (Falcon) : Vatsal Koradia (Vatsal)
+* Moto G 2014 (Titan) : Vatsal Koradia (Vatsal)
+* Moto G4 Plus (Athene) : Vache Ounet (Vache)
 
 =====
 NEXUS
@@ -26,6 +34,12 @@ SAMSUNG
 
 * Galaxy S4 (jfltexx) : Hildo Boerboom (firebird11)
 * Galaxy S5 (klte) : Hildo Boerboom (firebird11)
+
+=====
+Xiaomi
+=====
+
+* Mi Max (Hydrogen) : Vatsal Koradia (Vatsal)
 
 ==
 YU
