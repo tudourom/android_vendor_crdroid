@@ -13,6 +13,8 @@ LG
 
 * LG G2 (d800-d801-d802-d803-ls980-vs980) : Hildo Boerboom (firebird11)
 * LG G3 (d850-d851-d852-d855-ls990-vs985-f400) : Hildo Boerboom (firebird11)
+* LG G Pad 8.3 (V500) : Alex Mubinov (beroid)
+* LG G4 (h811-h815) : Hildo Boerboom (firebird11)
 
 =====
 Motorola
@@ -27,6 +29,16 @@ NEXUS
 =====
 
 * Nexus 6 (shamu) : Pranav Vashi (neobuddy89)
+* Nexus 5x (Bullhead) : Hildo Boerboom (firebird11)
+* Nexus 5 (Hammerhead, Hammerhead caf) : Hildo Boerboom (firebird11)
+
+=======
+OnePlus
+=======
+* OnePlus One (Bacon) : Hildo Boerboom (firebird11)
+* OnePlus Two : Sarthak Narang
+* OnePlus Three : Hildo Boerboom (firebird11)
+* OnePlus X : Sarthak Narang
 
 =======
 SAMSUNG
@@ -34,6 +46,11 @@ SAMSUNG
 
 * Galaxy S4 (jfltexx) : Hildo Boerboom (firebird11)
 * Galaxy S5 (klte) : Hildo Boerboom (firebird11)
+
+=====
+Wileyfox
+=====
+* Wileyfox Swift (Crackling) : Alex Mubinov (beroid)
 
 =====
 Xiaomi
