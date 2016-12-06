@@ -46,6 +46,7 @@ SAMSUNG
 
 * Galaxy S4 (jfltexx) : Hildo Boerboom (firebird11)
 * Galaxy S5 (klte) : Hildo Boerboom (firebird11)
+* Galaxy S2 (i9100) : Alex Stark (GreekDragon)
 
 =====
 Wileyfox
