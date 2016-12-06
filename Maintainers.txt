@@ -8,6 +8,12 @@ Official Maintainers
 ====================
 
 =====
+HTC
+=====
+
+* One (m8) : Hildo Boerboom (firebird11)
+
+=====
 LG
 =====
 
@@ -31,10 +37,12 @@ NEXUS
 * Nexus 6 (shamu) : Pranav Vashi (neobuddy89)
 * Nexus 5x (Bullhead) : Hildo Boerboom (firebird11)
 * Nexus 5 (Hammerhead, Hammerhead caf) : Hildo Boerboom (firebird11)
+* Nexus 6p (angler) : Hildo Boerboom (firebird11)
 
 =======
 OnePlus
 =======
+
 * OnePlus One (Bacon) : Hildo Boerboom (firebird11)
 * OnePlus Two : Sarthak Narang
 * OnePlus Three : Hildo Boerboom (firebird11)
@@ -44,13 +52,15 @@ OnePlus
 SAMSUNG
 =======
 
-* Galaxy S4 (jfltexx) : Hildo Boerboom (firebird11)
-* Galaxy S5 (klte) : Hildo Boerboom (firebird11)
 * Galaxy S2 (i9100) : Alex Stark (GreekDragon)
+* Galaxy S3 (i9300) : Hildo Boerboom (firebird11)
+* Galaxy S4 (jfltexx) : Hildo Boerboom (firebird11)
+* Galaxy S5 (klte-all variants) : Hildo Boerboom (firebird11)
 
 =====
 Wileyfox
 =====
+
 * Wileyfox Swift (Crackling) : Alex Mubinov (beroid)
 
 =====
