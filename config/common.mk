@@ -275,7 +275,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Product version should match Android version
 PRODUCT_VERSION_MAJOR = 7
-PRODUCT_VERSION_MINOR = 1
+PRODUCT_VERSION_MINOR = 1.1
 
 # Increase CR Version with each major release.
 CR_VERSION := 1.4
