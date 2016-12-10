@@ -240,7 +240,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     OmniStyle \
     OmniSwitch \
-    masquerade
+    masquerade \
+    libprotobuf-cpp-full
 
 PRODUCT_PROPERTY_OVERRIDES := \
     ro.substratum.verified=true
