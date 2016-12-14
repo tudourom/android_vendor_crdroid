@@ -54,6 +54,7 @@ WILEYFOX
 XIAOMI
 ------
 * __[Mi Max (hydrogen)]:__ Vatsal Koradia (Vatsal)
+* __[Redmi Note 3 (kenzo)]:__ Rohan Khurana (warlord_rk)
 
 YU
 --

@@ -68,6 +68,7 @@ XIAOMI
 ========
 
 * Mi Max (hydrogen) : Vatsal Koradia (Vatsal)
+* Redmi Note 3 (kenzo) : Rohan Khurana (warlord_rk)
 
 ========
 YU
