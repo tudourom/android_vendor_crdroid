@@ -71,10 +71,6 @@
          so that applications can still use their own mechanisms. -->
     <bool name="config_enableAutoPowerModes">true</bool>
 
-    <!-- Control whether Night display is available. This should only be enabled on devices
-         with HWC 2.0 or higher. -->
-    <bool name="config_nightDisplayAvailable">true</bool>
-
     <!-- If true, the doze component is not started until after the screen has been
           turned off and the screen off animation has been performed. -->
     <bool name="config_dozeAfterScreenOff">true</bool>
