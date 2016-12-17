@@ -21,6 +21,7 @@ LG
 * LG G2 (d800-d801-d802-d803-ls980-vs980) : Hildo Boerboom (firebird11)
 * LG G3 (d850-d851-d852-d855-ls990-vs985-f400) : Hildo Boerboom (firebird11)
 * LG G4 (h811-h815) : Hildo Boerboom (firebird11)
+* LG G5 (h830-h850) : Soufian Boulbayem (dawa4all)
 
 ========
 MOTOROLA
@@ -45,7 +46,7 @@ ONEPLUS
 
 * OnePlus 1 (bacon) : Hildo Boerboom (firebird11)
 * OnePlus 2 (oneplus2) : Sarthak Narang
-* OnePlus 3 (oneplus3) : Hildo Boerboom (firebird11)
+* OnePlus 3 (oneplus3) : Soufian Boulbayem (dawa4all)
 * OnePlus X (onyx) : Sarthak Narang
 
 ========
@@ -55,6 +56,7 @@ SAMSUNG
 * Galaxy S2 (i9100) : Alex Stark (GreekDragon)
 * Galaxy S3 (i9300) : Hildo Boerboom (firebird11)
 * Galaxy S4 (jfltexx) : Hildo Boerboom (firebird11)
+* Galaxy S4 (ks01ltexx) : Soufian Boulbayem (dawa4all)
 * Galaxy S5 (klte - all variants) : Hildo Boerboom (firebird11)
 
 ========
