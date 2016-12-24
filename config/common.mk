@@ -137,7 +137,6 @@ PRODUCT_PACKAGES += \
     CMWallpapers \
     Eleven \
     ExactCalculator \
-    Launcher3 \
     LiveLockScreenService \
     LockClock \
     Screencast \
