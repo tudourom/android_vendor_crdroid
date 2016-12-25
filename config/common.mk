@@ -26,8 +26,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Default notification/alarm sounds
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.config.notification_sound=Tethys.ogg \
-    ro.config.alarm_alert=Oxygen.ogg
+    ro.config.notification_sound=Chime.ogg \
+    ro.config.alarm_alert=Flow.ogg
 
 ifneq ($(TARGET_BUILD_VARIANT),user)
 # Thank you, please drive thru!
