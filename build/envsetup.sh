@@ -80,7 +80,7 @@ alias bib=breakfast
 function eat()
 {
     if [ "$OUT" ] ; then
-        MODVERSION=$(get_build_var CM_VERSION)
+        MODVERSION=$(get_build_var LINEAGE_VERSION)
         ZIPFILE=crdroidAndroid-$MODVERSION.zip
         ZIPPATH=$OUT/$ZIPFILE
         if [ ! -f $ZIPPATH ] ; then
@@ -96,7 +96,7 @@ function eat()
             done
             echo "Device Found.."
         fi
-    if (adb shell getprop ro.crdroid.version | grep -q "$CM_BUILD");
+    if (adb shell getprop ro.crdroid.version | grep -q "$LINEAGE_BUILD");
     then
         # if adbd isn't root we can't write to /cache/recovery/
         adb root
@@ -118,7 +118,7 @@ EOF
     fi
     return $?
     else
-        echo "The connected device does not appear to be $CM_BUILD, run away!"
+        echo "The connected device does not appear to be $LINEAGE_BUILD, run away!"
     fi
 }
 

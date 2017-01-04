@@ -282,12 +282,12 @@ PRODUCT_VERSION_MINOR = 1.1
 CR_VERSION := 1.9
 
 
-CM_VERSION := crDroidAndroid-$(PRODUCT_VERSION_MAJOR).$(PRODUCT_VERSION_MINOR)-$(shell date -u +%Y%m%d)-$(CM_BUILD)-v$(CR_VERSION)
-CM_DISPLAY_VERSION := crDroidAndroid-$(PRODUCT_VERSION_MAJOR).$(PRODUCT_VERSION_MINOR)-$(shell date -u +%Y%m%d)-v$(CR_VERSION)
+LINEAGE_VERSION := crDroidAndroid-$(PRODUCT_VERSION_MAJOR).$(PRODUCT_VERSION_MINOR)-$(shell date -u +%Y%m%d)-$(LINEAGE_BUILD)-v$(CR_VERSION)
+LINEAGE_DISPLAY_VERSION := crDroidAndroid-$(PRODUCT_VERSION_MAJOR).$(PRODUCT_VERSION_MINOR)-$(shell date -u +%Y%m%d)-v$(CR_VERSION)
 
 PRODUCT_PROPERTY_OVERRIDES += \
-  ro.crdroid.version=$(CM_VERSION) \
-  ro.modversion=$(CM_VERSION)
+  ro.crdroid.version=$(LINEAGE_VERSION) \
+  ro.modversion=$(LINEAGE_VERSION)
 
 ifeq ($(OTA_PACKAGE_SIGNING_KEY),)
     PRODUCT_EXTRA_RECOVERY_KEYS += \
@@ -296,7 +296,7 @@ ifeq ($(OTA_PACKAGE_SIGNING_KEY),)
 endif
 
 PRODUCT_PROPERTY_OVERRIDES += \
-  ro.crdroid.display.version=$(CM_DISPLAY_VERSION)
+  ro.crdroid.display.version=$(LINEAGE_DISPLAY_VERSION)
 
 -include $(WORKSPACE)/build_env/image-auto-bits.mk
 -include vendor/cm/config/partner_gms.mk
