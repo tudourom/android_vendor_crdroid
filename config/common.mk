@@ -289,12 +289,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
   ro.crdroid.version=$(LINEAGE_VERSION) \
   ro.modversion=$(LINEAGE_VERSION)
 
-ifeq ($(OTA_PACKAGE_SIGNING_KEY),)
-    PRODUCT_EXTRA_RECOVERY_KEYS += \
-        vendor/cm/build/target/product/security/cm \
-        vendor/cm/build/target/product/security/cm-devkey
-endif
-
 PRODUCT_PROPERTY_OVERRIDES += \
   ro.crdroid.display.version=$(LINEAGE_DISPLAY_VERSION)
 
