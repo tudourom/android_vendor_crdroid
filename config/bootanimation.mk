@@ -16,11 +16,11 @@ TARGET_BOOTANIMATION_SIZE_ALT := $(shell \
   fi )
 
 # first try matching and use smaller dimension bootanimation
-ifneq ($(filter 720 1080 1440,$(TARGET_BOOTANIMATION_SIZE)),)
+ifneq ($(filter 480 720 1080 1440,$(TARGET_BOOTANIMATION_SIZE)),)
 PRODUCT_BOOTANIMATION := vendor/cm/prebuilt/common/bootanimation/$(TARGET_BOOTANIMATION_SIZE).zip
 else
 # if not try matching and use bigger dimension bootanimation
-ifneq ($(filter 720 1080 1440,$(TARGET_BOOTANIMATION_SIZE_ALT)),)
+ifneq ($(filter 480 720 1080 1440,$(TARGET_BOOTANIMATION_SIZE_ALT)),)
 PRODUCT_BOOTANIMATION := vendor/cm/prebuilt/common/bootanimation/$(TARGET_BOOTANIMATION_SIZE_ALT).zip
 else
 # if not found use default bootanimation
