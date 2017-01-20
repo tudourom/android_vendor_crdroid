@@ -1,6 +1,7 @@
 ===================
 crDroid Android
 ===================
+
 ROMs released by below maintainers are officially supported by crDroid Team.
 
 ====================
@@ -11,7 +12,9 @@ Official Maintainers
 HTC
 ========
 
-* One (m8) : Hildo Boerboom (firebird11)
+* One (m8) : Jeremy Vaughan (hokiealumnus)
+* One (m9) : Hildo Boerboom (firebird11)
+* 10 (pme) : Hildo Boerboom (firebird11)
 
 ========
 LG
@@ -20,7 +23,7 @@ LG
 * LG G Pad 8.3 (V500) : Alex Mubinov (beroid)
 * LG G2 (d800-d801-d802-d803-ls980-vs980) : Hildo Boerboom (firebird11)
 * LG G3 (d850-d851-d852-d855-ls990-vs985-f400) : Hildo Boerboom (firebird11)
-* LG G4 (h811-h815) : Hildo Boerboom (firebird11)
+* LG G4 (h811-h815) : Jeremy Vaughan (hokiealumnus)
 * LG G5 (h830-h850) : Soufian Boulbayem (dawa4all)
 
 ========
@@ -30,15 +33,25 @@ MOTOROLA
 * Moto G (falcon) : Vatsal Koradia (Vatsal)
 * Moto G 2014 (titan) : Vatsal Koradia (Vatsal)
 * Moto G4 Plus (athene) : Vache Ounet (Vache)
+* Moto X pure (clark) : Hildo Boerboom (firebird11)
+* Moto X play (lux) : Anoop Kumar (AnoopKumar)
+
+========
+NEXTBIT
+========
+
+* Robin (ether) : Hildo Boerboom (firebird11)
 
 ========
 NEXUS
 ========
 
+* Nexus 4 (mako) : Hildo Boerboom (firebird11)
 * Nexus 5 (hammerhead, hammerheadcaf) : Hildo Boerboom (firebird11)
-* Nexus 5x (bullhead) : Hildo Boerboom (firebird11)
+* Nexus 5x (bullhead) : Jeremy Vaughan (hokiealumnus)
 * Nexus 6 (shamu) : Pranav Vashi (neobuddy89)
-* Nexus 6p (angler) : Hildo Boerboom (firebird11)
+* Nexus 6p (angler) : Jeremy Vaughan (hokiealumnus)
+* Nexus 7 2013 (deb-flo) : Jeremy Vaughan (hokiealumnus)
 
 ========
 ONEPLUS
@@ -50,6 +63,12 @@ ONEPLUS
 * OnePlus X (onyx) : Sarthak Narang
 
 ========
+OPPO
+========
+
+* Find 7 (find7) : Hildo Boerboom (firebird11)
+
+========
 SAMSUNG
 ========
 
@@ -57,7 +76,7 @@ SAMSUNG
 * Galaxy S3 (i9300) : Hildo Boerboom (firebird11)
 * Galaxy S4 (jfltexx) : Hildo Boerboom (firebird11)
 * Galaxy S4 (ks01ltexx) : Soufian Boulbayem (dawa4all)
-* Galaxy S5 (klte - all variants) : Hildo Boerboom (firebird11)
+* Galaxy S5 (klte - all variants) : Jeremy Vaughan (hokiealumnus)
 
 ========
 WILEYFOX
@@ -71,6 +90,8 @@ XIAOMI
 
 * Mi Max (hydrogen) : Vatsal Koradia (Vatsal)
 * Redmi Note 3 (kenzo) : Rohan Khurana (warlord_rk)
+* Mi 4i (ferrari) : Anand Roy (Anandroy)
+* Mi 5 (gemini) : Rohan Khurana (warlord_rk)
 
 ========
 YU
@@ -79,4 +100,9 @@ YU
 * Yu Yuphoria (lettuce) : Pranav Reddy (pranu@cool), Pranav Vashi (neobuddy89)
 * Yu Yureka (tomato) : Soubhik Khan (SK83)
 
+====================
+Graphical Designers
+====================
+* Jason Townley
+* Stout Puppy
 
