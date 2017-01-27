@@ -241,6 +241,7 @@ PRODUCT_COPY_FILES += \
 
 # Custom crDroid packages
 PRODUCT_PACKAGES += \
+    OmniStyle \
     OmniSwitch \
     masquerade
 
