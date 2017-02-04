@@ -12,8 +12,8 @@ Official Maintainers
 HTC
 ========
 
-* One (m8) : Jeremy Vaughan (hokiealumnus)
-* One (m9) : Hildo Boerboom (firebird11)
+* One M8 (m8,m8d) : Jeremy Vaughan (hokiealumnus)
+* One M9 (himaul) : Hildo Boerboom (firebird11)
 * 10 (pme) : Hildo Boerboom (firebird11)
 
 ========
@@ -30,8 +30,8 @@ LG
 MOTOROLA
 ========
 
-* Moto G (falcon) : Vatsal Koradia (Vatsal)
-* Moto G 2014 (titan) : Vatsal Koradia (Vatsal)
+* Moto G (falcon) : Pranav Vashi (neobuddy89)
+* Moto G 2014 (titan) : Hildo Boerboom (firebird11)
 * Moto G4 Plus (athene) : Vache Ounet (Vache)
 * Moto X pure (clark) : Hildo Boerboom (firebird11)
 * Moto X play (lux) : Anoop Kumar (AnoopKumar)
@@ -88,7 +88,7 @@ WILEYFOX
 XIAOMI
 ========
 
-* Mi Max (hydrogen) : Vatsal Koradia (Vatsal)
+* Mi Max (hydrogen) : Rafael Marchetto (marchetto96)
 * Redmi Note 3 (kenzo) : Rohan Khurana (warlord_rk)
 * Mi 4i (ferrari) : Anand Roy (Anandroy)
 * Mi 5 (gemini) : Rohan Khurana (warlord_rk)
