@@ -126,7 +126,6 @@ PRODUCT_PACKAGES += \
     AudioFX \
     CMFileManager \
     CMSettingsProvider \
-    CMWallpapers \
     Eleven \
     ExactCalculator \
     LiveLockScreenService \
