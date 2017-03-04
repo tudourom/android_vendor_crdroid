@@ -245,6 +245,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PROPERTY_OVERRIDES := \
     ro.substratum.verified=true
 
+# Enable Google Assistant
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.opa.eligible_device=true
+
 #DU Utils Library
 PRODUCT_PACKAGES += \
     org.dirtyunicorns.utils
