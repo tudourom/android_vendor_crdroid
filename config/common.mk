@@ -256,10 +256,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_BOOT_JARS += \
     org.dirtyunicorns.utils
 
-# crDroid Maintainers list
-PRODUCT_COPY_FILES += \
-    vendor/cm/Maintainers.txt:system/etc/Maintainers.txt
-
 # Proprietary latinime lib needed for swyping
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/lib/libjni_latinimegoogle.so:system/lib/libjni_latinimegoogle.so
