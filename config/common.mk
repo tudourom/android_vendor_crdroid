@@ -239,7 +239,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     OmniStyle \
     OmniSwitch \
-    masquerade \
+    ThemeInterfacer \
     libprotobuf-cpp-full
 
 PRODUCT_PROPERTY_OVERRIDES := \
