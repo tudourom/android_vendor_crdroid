@@ -237,6 +237,7 @@ PRODUCT_COPY_FILES += \
 
 # Custom crDroid packages
 PRODUCT_PACKAGES += \
+    OmniJaws \
     OmniStyle \
     OmniSwitch \
     ThemeInterfacer \
