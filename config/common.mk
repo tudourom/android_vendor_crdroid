@@ -233,7 +233,7 @@ EXCLUDE_SYSTEMUI_TESTS := true
 
 # Adaway
 PRODUCT_COPY_FILES += \
-    vendor/cm/prebuilt/Adaway/Adaway.apk:system/app/Adaway/Adaway.apk
+    vendor/cm/prebuilt/AdAway/AdAway.apk:system/app/AdAway/AdAway.apk
 
 # Custom crDroid packages
 PRODUCT_PACKAGES += \
