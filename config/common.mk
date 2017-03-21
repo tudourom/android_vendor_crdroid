@@ -131,7 +131,6 @@ PRODUCT_PACKAGES += \
     LiveLockScreenService \
     LockClock \
     Trebuchet \
-    WallpaperPicker \
     WeatherProvider
 
 # Exchange support
@@ -238,6 +237,7 @@ PRODUCT_COPY_FILES += \
 
 # Custom crDroid packages
 PRODUCT_PACKAGES += \
+    crDroidWallpapers \
     OmniJaws \
     OmniStyle \
     OmniSwitch \
