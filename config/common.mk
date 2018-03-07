@@ -63,6 +63,23 @@ $(foreach f,$(wildcard vendor/lineage/prebuilt/common/etc/init/*.rc),\
 PRODUCT_COPY_FILES += \
     vendor/lineage/prebuilt/common/lib/content-types.properties:system/lib/content-types.properties
 
+# Phonelocation!
+PRODUCT_COPY_FILES +=  \
+    vendor/lineage/prebuilt/common/media/location/suda-phonelocation.dat:system/media/location/suda-phonelocation.dat
+
+# World SPN overrides list
+PRODUCT_COPY_FILES += \
+    vendor/lineage/prebuilt/common/etc/spn-conf.xml:system/etc/spn-conf.xml
+
+ # USE V4A
+ifeq ($(WITH_V4A),true)
+PRODUCT_PACKAGES += \
+    VIPER4Android
+
+PRODUCT_COPY_FILES += \
+    vendor/lineage/prebuilt/common/lib/soundfx/libv4a.so:system/lib/soundfx/libv4a.so
+endif
+
 # Enable SIP+VoIP on all targets
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.software.sip.voip.xml:system/etc/permissions/android.software.sip.voip.xml
@@ -110,7 +127,9 @@ PRODUCT_PACKAGES += \
 
 # Custom Lineage packages
 PRODUCT_PACKAGES += \
-    AudioFX \
+    PhoneLocationProvider \
+    ForceStop \
+    SMWeatherProvider \
     LineageSettingsProvider \
     ExactCalculator \
     Jelly \
